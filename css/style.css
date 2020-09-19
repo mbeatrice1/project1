@@ -1,5 +1,5 @@
 body{
-           
+    opacity: inherit;       
     padding: 30px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7,6 +7,17 @@ body{
 
 background-image: url(https://images.unsplash.com/photo-1544847558-3ccacb31ee7f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
 }
-h1{
-    color: blanchedalmond;
+
+.info{
+font: bold;
+text-align: center;
+background-color:#070b12;
+background-size: contain;
+font-style: italic;
+color: white;
+background-size: 50px 50px;
+background-position: right bottom;
+font-size: 10px;
+
 }
+
