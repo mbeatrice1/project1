@@ -17,7 +17,21 @@ font-style: italic;
 color: white;
 background-size: 50px 50px;
 background-position: right bottom;
-font-size: 10px;
+font-size: 15px;
 
+
+}
+.lk{
+    background-color: whitesmoke;
+    overflow: hidden;
+
+}
+.lk a{
+
+  padding: 15px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  float: right;
 }
 
