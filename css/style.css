@@ -1,6 +1,5 @@
 body{
     opacity: inherit;       
-    padding: 30px;
     background-repeat: no-repeat;
     background-size: cover;
     /*background-size: contain;*/
@@ -9,16 +8,14 @@ background-image: url(https://images.unsplash.com/photo-1544847558-3ccacb31ee7f?
 }
 
 .info{
-font: bold;
-text-align: center;
-background-color:#070b12;
-background-size: contain;
+
+/*background-color:gray;*/
 font-style: italic;
 color: white;
-background-size: 50px 50px;
-background-position: right bottom;
-font-size: 15px;
-
+padding: 50px;
+font-size: 30px;
+text-align: center;
+text-shadow:2px 2px 5px rgb(185, 185, 248);
 
 }
 .lk{
