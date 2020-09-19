@@ -16,12 +16,12 @@ color: black;
 padding: 10px;
 margin-left: 55%;
 font-size: 13px;
-text-align: center;
+text-align: start;
 /*text-shadow:2px 2px 5px rgb(185, 185, 248);*/
 
 }
 .lk{
-    background-color: whitesmoke;
+    background-color: rgba(0,0,0,0.7);
     overflow: hidden;
 
 }
