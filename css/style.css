@@ -1,5 +1,8 @@
 body{
-    background-image: url(https://github.com/mbeatrice1/project1/blob/develop/b5c1f91f-ef20-4ba6-a9e4-4a8fc41253d0.JPG); 
+    background-image: url(https://github.com/mbeatrice1/project1/blob/develop/b5c1f91f-ef20-4ba6-a9e4-4a8fc41253d0.JPG?raw=true); 
+    background-repeat:  no-repeat;
+    background-size: cover;
+
 }
 .info{
 
@@ -17,7 +20,7 @@ body{
     .lk{
     background-color: rgba(0,0,0,0.7);
     overflow: hidden;
-    margin: 0px;
+    margin: -10px;
     padding: 0px;
     
     }
@@ -38,8 +41,9 @@ body{
     flex-direction: row;
     justify-content: space-between;
     align-content: center;
-    margin : 200px;
+    margin : 100px;
     padding: 5px;
+    
     
     }
     
