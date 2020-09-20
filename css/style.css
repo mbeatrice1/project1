@@ -1,9 +1,8 @@
-body{
+.bk{
     opacity: 1;       
     background-repeat: no-repeat;
     background-size: cover;
     background-position: unset;
-
     background-image: url(https://github.com/mbeatrice1/project1/blob/develop/b5c1f91f-ef20-4ba6-a9e4-4a8fc41253d0.JPG?raw=true);
 
 }
@@ -41,9 +40,16 @@ padding: 10px;
   
   
 }
-.conclusion{
-    background-color: violet;
-    
+.flex-container{
+    background-color: teal;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    margin : 200px;
+    padding: 5px;
 
 }
+
+
 
