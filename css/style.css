@@ -36,17 +36,20 @@ body{
     float: right;
     }
     .flex-container{
-    background-color: teal;
+    background-color: darkslategray;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-content: center;
-    margin : 100px;
+    margin-inline-start: 700px;
     padding: 5px;
     
-    
+
     }
-    
+  
+  
+            
+           
     
 
 
