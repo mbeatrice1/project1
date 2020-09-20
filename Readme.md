@@ -1,12 +1,17 @@
 ## About Beatrice's Portofolio
  She is girl who is very enthusiast in the programming and 
  wiling to workhard to know about IT.
+ 
 ## Project Setup 
 
 VisualCodeStudio
+
 Git and guthub
+
 Chrome
+
 W3schools
+
 ubuntu OS
 
 ## language
