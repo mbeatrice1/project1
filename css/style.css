@@ -52,26 +52,22 @@ body{
         font-size-adjust: 20px;
         text-align: center;
     }
-    .last{
+    main{
         display: flex;
+        justify-content: space-around;
     }
-    h2{
+   
+    
+#l{
         text-align: center;
         font-style: italic;
-        font-size: 30px;
+        font-size: 20px;
+        background-color: darkolivegreen;
+        margin-inline-start: 900px;
+        padding-block-start: 3px;
 
     }
-    .last on{
-        display: flex;
-
-    }
-    .last tw{
-        display: flex;
-    }
-    .last three{
-        display: flex;
-        
-    }
+    
   
   
             
