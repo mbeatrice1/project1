@@ -9,13 +9,13 @@
 
 
 }
-.info{
+#info{
 
     
     font-style: italic;
     color: black;
-    padding: 10px;
-    margin-left: 55%;
+    padding: 130px;
+    margin-left: 58%;
     font-size: 13px;
     text-align: start;
     
@@ -23,19 +23,20 @@
     
     }
     .lk{
-    background-color: rgba(0,0,0,0.7);
+    background-color:  rgb(190, 177, 146);
     overflow: hidden;
     margin: -10px;
-    padding: 0px;
+    padding: 5px;
+    font-size: 20px;
     
     }
     .lk a:hover{
     
-    background-color: khaki;
+    background-color: rgb(225, 197, 176);
     }
     .lk a{
     padding: 10px;
-    color: white;
+    color: black;
     text-align: center;
     text-decoration: none;
     float: right;
@@ -45,7 +46,7 @@
         padding:8%;
         background-color:#eff2eb;
         position: relative;
-        margin-top:40%;
+        margin-top:17%;
         
     }
     
@@ -74,26 +75,28 @@
   
  box{
     display: flex;
-
+    flex-wrap: wrap;
    justify-content: space-around;
 
   
 }
 .boxs{
  
-
 border:0px solid black;
-box-sizing: content-box;
 box-sizing: content-box;
 text-align: center;
 height: 200px;
 width: 200px;
 padding:18px;
-background-color: darkslategray;
+/*background-color: darkslategray;*/
+
+
+}
+.boxs :hover{
+    background-color: black;
+    color: white;
     
 }
-
-
 
   
             
