@@ -1,7 +1,12 @@
-body{
+.content{
     background-image: url(https://github.com/mbeatrice1/project1/blob/develop/b5c1f91f-ef20-4ba6-a9e4-4a8fc41253d0.JPG?raw=true); 
     background-repeat:  no-repeat;
     background-size: cover;
+   position: absolute;
+   width: 100%;
+   top:0;
+   height: 150%;
+
 
 }
 .info{
@@ -37,13 +42,11 @@ body{
     }
     .flex-container{
    
-    display: flex;
-    flex-direction: row;
-    background-color: darkslategray;
-    justify-content: space-between;
-    align-content: center;
-    margin-inline-start: 700px;
-    padding: 5px;
+        padding:8%;
+        background-color:#eff2eb;
+        position: relative;
+        margin-top:40%;
+        
     }
     
 
@@ -69,6 +72,29 @@ body{
     }
     
   
+ box{
+    display: flex;
+
+   justify-content: space-around;
+
+  
+}
+.boxs{
+ 
+
+border:0px solid black;
+box-sizing: content-box;
+box-sizing: content-box;
+text-align: center;
+height: 200px;
+width: 200px;
+padding:18px;
+background-color: darkslategray;
+    
+}
+
+
+
   
             
            
